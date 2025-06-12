@@ -1,19 +1,19 @@
-# 🧮 Simple Calculator (Python CLI)
+# 🔐 Password Generator (Python CLI)
 
-A beginner-friendly command-line calculator built with Python. It performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+A simple and secure Python-based password generator that creates strong random passwords with a mix of letters, numbers, and symbols.
 
 ---
 
-## 🔧 Features
+## 📌 Features
 
-- Input two numbers
-- Choose an operation (+, -, *, /)
-- Error handling for invalid inputs and divide-by-zero
-- Clean CLI interaction
+- Custom password length
+- Uses uppercase, lowercase, digits, and special characters
+- CLI-based interface
+- Error handling for invalid inputs
 
 ---
 
 ## 🚀 How to Run
 
 ```bash
-python calculator.py
+python password_generator.py
